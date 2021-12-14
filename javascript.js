@@ -12,7 +12,7 @@ function makeGrid(rows, cols) {
         
     };
 };
-
+// color
 function paint(e) {
    e.target.style.backgroundColor = "black";
 }

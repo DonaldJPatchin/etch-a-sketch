@@ -6,6 +6,8 @@
 h1 {
     font-size: 54px;
 }
+
+/* wrapper */
 .contained {
     display: flex;
     flex-direction: column;
